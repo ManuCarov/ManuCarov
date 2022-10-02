@@ -1,16 +1,18 @@
-### Hi there 👋
+### Entrega #1. Proyecto Lenguajes de Programacioón
 
-<!--
-**ManuCarov/ManuCarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Integrantes:*
 
-Here are some ideas to get you started:
+* Cristian Camilo Cárdenas Mogollón
+* Manuela Caro Villada
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Descripción:*
+
+En esta entrega, se pretende llevar a cabo la POO y las listas enlazadas en C++.
+El código se basa en tomar un archivo .txt, este contiene información de usuarios con sus respectivas contraseñas, y guardar su información en una lista enlazada; donde sus nodos contiene Dato1 y Dato2. Con esto se crea varias funcionalidades, como: eliminar usuarios, crear usuarios, buscar usuarios y mostrar todos los usuarios.
+
+*Versión*
+
+g++ (Rev1, Built by MSYS2 project) 12.2.0
+Copyright (C) 2022 Free Software Foundation, Inc.
+
+*Video*
