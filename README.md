@@ -1,20 +1,78 @@
-### Entrega #1. Proyecto Lenguajes de Programacioón
+# Hi, I'm Manuela (Ela) Caro
 
-*Integrantes:*
+Systems Engineering Student | Data Analyst | Software Developer | UX/UI Designer  
 
-* Cristian Camilo Cárdenas Mogollón
-* Manuela Caro Villada
+I’m a technology-driven professional focused on building data-based solutions, intuitive digital products, and scalable software systems.  
+I combine analytics, development, and design to create meaningful, efficient, and user-centered solutions.
 
-*Descripción:*
+---
 
-En esta entrega, se pretende llevar a cabo la POO y las listas enlazadas en C++.
-El código se basa en tomar un archivo .txt, este contiene información de usuarios con sus respectivas contraseñas, y guardar su información en una lista enlazada; donde sus nodos contiene Dato1 y Dato2. Con esto se crea varias funcionalidades, como: eliminar usuarios, crear usuarios, buscar usuarios y mostrar todos los usuarios.
+## About Me
 
-*Versión*
+- Systems Engineering student at EAFIT University  
+- Strong focus on Data Analytics and Business Intelligence  
+- Experience in Full-Stack Development  
+- UX/UI Designer with a user-centered approach  
+- Analytical mindset, detail-oriented, and continuous learner  
 
-g++ (Rev1, Built by MSYS2 project) 12.2.0
-Copyright (C) 2022 Free Software Foundation, Inc.
+I believe technology should be useful, understandable, and human-centered.
 
-*Video*
+---
 
-https://vimeo.com/756064536
+## Tech Stack
+
+### Programming & Development
+- Languages: Python, Java, C#, TypeScript, SQL, HTML, CSS  
+- Frameworks: Angular, Django, React  
+- Databases: MySQL, PostgreSQL  
+- Tools: Git, Power BI, Power Automate  
+
+### Data & Analytics
+- Data analysis and visualization  
+- Power BI dashboards and reporting  
+- Data modeling and storytelling  
+
+### UX/UI Design
+- Figma  
+- Wireframes and user flows  
+- Design systems and Atomic Design  
+- UX research fundamentals  
+
+### Methodologies
+- Scrum (Scrum Master)  
+- Kanban  
+- Agile practices  
+
+---
+
+## Featured Projects
+
+- BI Portal – Smart Fit  
+  Full-stack Business Intelligence platform with embedded dashboards, analytics, and user management.
+
+- RetroVibes  
+  E-commerce platform for vinyl records developed with Django.
+
+- Academic and personal projects  
+  ERP modules, analytics dashboards, and web applications.
+
+---
+
+## Currently Learning
+
+- Advanced Data Analytics  
+- Software architecture  
+- UX for data-driven products  
+- Scalable and cloud-based solutions  
+
+---
+
+## Contact
+
+LinkedIn: [Link](https://www.linkedin.com/in/manuela-caro-villada-65783439/)
+Portfolio: [Link](https://portafolio-manuela-caro.vercel.app/) 
+Email: manuelacaro8@hotmail.com
+
+---
+
+Always open to learning, collaboration, and building meaningful technology.
