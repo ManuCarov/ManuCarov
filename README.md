@@ -1,4 +1,4 @@
-# Hi, I'm Manuela (Ela) Caro
+# Hi, I'm Manuela Caro
 
 Systems Engineering Student | Data Analyst | Software Developer | UX/UI Designer  
 
