@@ -1,6 +1,6 @@
 # Hi, I'm Manuela Caro
 
-Systems Engineering Student | Data Analyst | Software Developer | UX/UI Designer  
+Computer Science | Data Analyst |  UX/UI Designer  
 
 I’m a technology-driven professional focused on building data-based solutions, intuitive digital products, and scalable software systems.  
 I combine analytics, development, and design to create meaningful, efficient, and user-centered solutions.
@@ -9,9 +9,8 @@ I combine analytics, development, and design to create meaningful, efficient, an
 
 ## About Me
 
-- Systems Engineering student at EAFIT University  
+- Computer Science at EAFIT University  
 - Strong focus on Data Analytics and Business Intelligence  
-- Experience in Full-Stack Development  
 - UX/UI Designer with a user-centered approach  
 - Analytical mindset, detail-oriented, and continuous learner  
 
